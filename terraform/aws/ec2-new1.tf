@@ -1,4 +1,4 @@
-#06-07021 updating information
+#06-07021 updating information another update
 
 resource "aws_instance" "web_host" {
   # ec2 have plain text secrets in user data
